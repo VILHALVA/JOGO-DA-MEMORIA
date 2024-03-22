@@ -18,31 +18,11 @@ Este é um jogo de memória com cartas que contêm imagens de personagens.
 
 6. **Reinício**: Após o término do jogo, o jogador pode optar por reiniciar o jogo clicando em um botão correspondente. Isso reinicia o temporizador e redistribui as cartas no tabuleiro, permitindo que o jogador jogue novamente.
 
-## COMO USAR?
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/JOGO-DA-MEMORIA.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd JOGO-DA-MEMORIA
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip JOGO-DA-MEMORIA.zip
-```
-* Abra o arquivo `index.html` em seu navegador de preferência.
-
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO "manualdodev"](https://github.com/manualdodev/memory-game)
