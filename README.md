@@ -27,4 +27,3 @@ Este é um jogo de memória com cartas que contêm imagens de personagens.
 ## CREDITOS:
 - [PROJETO CRIADO PELO "manualdodev"](https://github.com/manualdodev/memory-game)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
